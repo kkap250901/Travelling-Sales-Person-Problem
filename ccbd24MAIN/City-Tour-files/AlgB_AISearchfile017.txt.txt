@@ -1,0 +1,5 @@
+USER = ccbd24 (Kush Kapur),
+ALGORITHM CODE = GA, NAME OF CITY-FILE = AISearchfile017.txt,
+SIZE = 17, TOUR LENGTH = 1444,
+9,4,3,12,6,15,8,13,10,11,14,7,5,1,2,0,16,
+NOTE = 
